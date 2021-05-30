@@ -22,3 +22,6 @@ Draw(fill) the contour => this will be the foreground roi
 separate the foreground from Background (cv.bitwize_and)
 remove the foreground Roi from the New Background (cv.bitwize_and(inverseRoi, NewBackground) 
 Combine the New Background Roi and foreground Roi (cv.bitwize_or(NewBackground, Foreground)
+
+# Output 
+https://photos.app.goo.gl/gga6i4kWuCEL7DHv8 
