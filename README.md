@@ -24,4 +24,5 @@ remove the foreground Roi from the New Background (cv.bitwize_and(inverseRoi, Ne
 Combine the New Background Roi and foreground Roi (cv.bitwize_or(NewBackground, Foreground)
 
 # Output 
-https://photos.app.goo.gl/gga6i4kWuCEL7DHv8 
+https://user-images.githubusercontent.com/83566027/148188903-aafa6c3b-045f-4aed-9d23-263c73982080.mp4
+
